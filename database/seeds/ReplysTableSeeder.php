@@ -35,4 +35,3 @@ class ReplysTableSeeder extends Seeder
         Reply::insert($replys->toArray());
     }
 }
-
